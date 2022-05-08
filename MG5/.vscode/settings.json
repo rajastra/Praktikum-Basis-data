@@ -1,0 +1,21 @@
+{
+   "files.associations": {
+      "*.ejs": "html",
+      "iostream": "cpp"
+   },
+   "sqltools.connections": [
+      {
+         "mysqlOptions": {
+            "authProtocol": "default"
+         },
+         "previewLimit": 50,
+         "server": "localhost",
+         "port": 3306,
+         "driver": "MySQL",
+         "name": "Probstat",
+         "database": "galeri_itera",
+         "username": "root",
+         "password": ""
+      }
+   ]
+}
